@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/gh/darostegui/DevOps-UDacity-Microservices-project.svg?style=svg)](https://app.circleci.com/pipelines/github/darostegui/DevOps-UDacity-Microservices-project)
+[![<ORG_NAME>](https://circleci.com/gh/darostegui/Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/darostegui/Microservice-API)
 
 ## Project Overview
 
